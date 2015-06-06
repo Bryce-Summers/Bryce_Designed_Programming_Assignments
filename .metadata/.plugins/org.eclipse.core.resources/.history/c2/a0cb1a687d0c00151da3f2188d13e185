@@ -1,0 +1,8 @@
+package Implementations;
+
+// This class will be used to store information about Maze Nodes.
+
+public class MazeNode
+{
+
+}

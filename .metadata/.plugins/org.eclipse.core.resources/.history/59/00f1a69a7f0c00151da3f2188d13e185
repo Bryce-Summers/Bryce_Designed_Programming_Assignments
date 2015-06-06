@@ -1,0 +1,66 @@
+package Implementations;
+
+import Interfaces.Frontier;
+import Interfaces.PriorityQueue;
+
+public class DHeap<E extends Comparable<E>> extends ArrayList<E> implements PriorityQueue<PriorityPair<E>>, Frontier<E>
+{
+
+	final int D;
+	final int astar_weight;
+	
+	public DHeap(int branching_factor, int astar_weight)
+	{
+		D = branching_factor;
+		this.astar_weight = astar_weight;
+	}
+	
+	
+	@Override
+	public void enqueue(PriorityPair<E> elem) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public PriorityPair<E> extractDominating() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public PriorityPair<E> peekDominating() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void add(E elem) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public E remove() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+	// -- Main Implementation decomposition functions.
+	
+	public void 
+	
+}

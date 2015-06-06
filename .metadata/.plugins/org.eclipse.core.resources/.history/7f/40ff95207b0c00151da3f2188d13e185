@@ -1,0 +1,9 @@
+package Interfaces;
+
+public interface Pair<T1, T2>
+{
+
+	protected T1 getFirst();
+	protected T2 getLast();
+	
+}

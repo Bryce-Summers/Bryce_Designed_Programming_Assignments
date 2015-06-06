@@ -1,0 +1,18 @@
+package Implementations;
+
+/**
+ * Written By Bryce Summers on 6/6/2015.
+ * 
+ * This class will be used to store information about Maze Nodes,
+ *
+ * Maze Nodes know whether they contain a wall or not.
+ * Maze Nodes know where their predecessor in a search is.
+ * 
+ * Maze Nodes probably know where their location is.
+ * 
+ */
+
+public class MazeNode implements Pair<Integer, Integer>
+{
+
+}

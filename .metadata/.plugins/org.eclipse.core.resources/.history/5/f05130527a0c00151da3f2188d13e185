@@ -1,0 +1,8 @@
+package Implementations;
+
+public class DHeap implements PrirityQueue<E>
+{
+
+	final int D = 2;
+	
+}

@@ -1,0 +1,20 @@
+package Implementations;
+
+import Interfaces.Frontier;
+import Interfaces.Pair;
+
+public class MazeSearcher
+{
+	// -- Constructor.
+	public MazeSearcher(Maze maze)
+	{
+		
+	}
+
+	
+	public void search(Frontier<MazeNode> F)
+	{
+		
+	}
+	
+}

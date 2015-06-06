@@ -1,0 +1,11 @@
+package Interfaces;
+
+public interface PriorityQueue<E extends Comparable<E>>
+{
+
+	public void add(E elem);
+	public E extractDominating();
+	public E peekDominating();
+		
+	
+}

@@ -1,0 +1,15 @@
+package Implementations;
+
+/*
+ * Witten by Bryc Summers on 6/6/2015.
+ */
+
+public class PriorityPair<Data> implements Pair<Integer, Data>
+{
+
+	public PriorityPair(int priority, Data elem)
+	{
+		
+	}
+	
+}

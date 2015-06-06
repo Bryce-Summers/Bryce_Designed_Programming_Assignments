@@ -1,0 +1,11 @@
+package Implementations;
+
+public class MazeSearcher
+{
+
+	public MazeSearcher(MazeDisplay display)
+	{
+		
+	}
+	
+}

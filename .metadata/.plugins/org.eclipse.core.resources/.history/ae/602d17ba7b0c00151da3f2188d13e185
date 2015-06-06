@@ -1,0 +1,32 @@
+package Implementations;
+
+import Interfaces.PriorityQueue;
+
+public class DHeap<E extends Comparable<E>> implements PriorityQueue<PriorityPair<E>>, Frontier<E>
+{
+
+	final int D = 2;
+
+	
+	
+	@Override
+	public void add(PriorityPair<E> elem) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public PriorityPair<E> extractDominating() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public PriorityPair<E> peekDominating() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+	
+}

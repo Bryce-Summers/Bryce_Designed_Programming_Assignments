@@ -1,0 +1,53 @@
+package Implementations;
+
+import Interfaces.Grid;
+import Interfaces.Pair;
+
+/*
+ * 
+ * 
+ * Written by Bryce Summers on 6/5/2015.
+ * 
+ * 
+ */
+
+public class Maze<E> implements Grid<E>
+{
+
+	@Override
+	public void initialize(int width, int height) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public E lookup(int row, int column) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void set(int row, int column, Object new_value) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int getWidth() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int getHeight() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	public Pair<Integer, Integer> left(Pair<Integer, Integer> location)
+	{
+		// TODO: Implement Me Please!
+		return null;
+	}
+	
+}

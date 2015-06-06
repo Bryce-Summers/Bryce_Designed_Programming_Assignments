@@ -1,0 +1,8 @@
+package Implementations;
+
+public class DHeap
+{
+
+	final int D = 2;
+	
+}

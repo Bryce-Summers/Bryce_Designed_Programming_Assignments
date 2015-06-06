@@ -1,0 +1,9 @@
+package Interfaces;
+
+public interface Pair<T1, T1>
+{
+
+	public T1 getFirst();
+	pbulic T2 getLast();
+	
+}

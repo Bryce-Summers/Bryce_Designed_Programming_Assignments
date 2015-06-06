@@ -1,0 +1,8 @@
+package Implementations;
+
+public class PriorityPair<Priority, Data> implements Pair<Priority, Data>
+{
+
+	public BasicPair
+	
+}

@@ -1,0 +1,18 @@
+package Implementations;
+
+import Interfaces.Pair;
+
+public class MazeSearcher
+{
+	// -- Constructor.
+	public MazeSearcher(MazeDisplay display)
+	{
+		
+	}
+	
+	public void BFS(Pair<Integer, Integer> start, Pair<Integer, Integer> end)
+	{
+		
+	}
+	
+}

@@ -1,0 +1,41 @@
+package Implementations;
+
+import Interfaces.Pair;
+
+/*
+ * Written by Bryce Summers on 6/6/2015.
+ */
+
+public class PriorityPair<Data> implements Pair<Integer, Data>
+{
+
+	// -- Constructor.
+	public PriorityPair(int priority, Data elem)
+	{
+		
+	}
+
+	public Integer getPriority()
+	{
+		
+	}
+	
+	public Data getData()
+	{
+		// Implement Me Please;
+		return null;
+	}
+	
+	@Override
+	public Integer getFirst() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Data getLast() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

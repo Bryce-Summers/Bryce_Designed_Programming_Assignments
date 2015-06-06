@@ -1,0 +1,10 @@
+package Implementations;
+
+import Interfaces.PriorityQueue;
+
+public class DHeap<E> implements PriorityQueue<E>
+{
+
+	final int D = 2;
+	
+}

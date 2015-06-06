@@ -1,0 +1,16 @@
+package Implementations;
+
+/**
+ * Written By Bryce Summers on 6/6/2015.
+ * 
+ * This class will be used to store information about Maze Nodes,
+ *
+ * Maze Nodes know whether they contain a wall or not.
+ * Maze Nodes
+ * 
+ */
+
+public class MazeNode
+{
+
+}
